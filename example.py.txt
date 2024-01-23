@@ -1,0 +1,4 @@
+date='23-01-2024'
+sb="github"
+place="blr"
+print("hi we are attending {} class at {} on {}.format(sb,place,date))
